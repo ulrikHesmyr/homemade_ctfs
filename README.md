@@ -1,6 +1,6 @@
 # Try to solve my hommade CTFs
 # Categories
-  * [Web](##web "Go to web category")
+  * [Web](#web-tasks "Go to web category")
     
          
 
