@@ -1,4 +1,4 @@
-# Try to solve my hommade CTFs
+# Try to solve my homemade CTFs
 ## Format CTF{...}
 # Categories
   * [Web](#web-tasks "Go to web category")
